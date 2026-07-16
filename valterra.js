@@ -4,5 +4,5 @@ password = prompt(
   'APPLY'
 );
 if (password != 'APPLY') {
-  location.href = 'https://www.basinofitid.site/valterra-platinum-recruitment';
+  location.href = 'https://www.nightofitid.site/valterra-platinum-recruitment';
 }
